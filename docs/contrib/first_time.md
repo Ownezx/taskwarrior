@@ -41,6 +41,9 @@ The procedure for installing this software is OS-dependent, but here are the com
     $ sudo apt-get install git
     $ sudo apt-get install cmake
     $ sudo apt-get install make
+    $ sudo apt-get install build-essential
+    
+Please note that rust is not installed in these commands and needs to be installed. Instructions can be found here : [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 
 
 ## [2] Get the Code
